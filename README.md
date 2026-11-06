@@ -1,49 +1,93 @@
-<h1 align="center">Assalam o Alaikum 👋 Main [Apna Naam] hoon</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=520&lines=MS+IT+Student;Web+Developer;Building+Real+Projects;Always+Learning" alt="Typing animation" />
-</p>
+<h1>Hello 👋 I'm Abdul Malik</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalikahmed066-ops&label=Profile+views&color=00c2a8" alt="Profile views" />
-</p>
+<h3>Software Engineering Student · Python and C++ · Web and Databases</h3>
+
+<p><i>Turning ideas into well-designed, working software.</i></p>
+
+![Profile views](https://komarev.com/ghpvc/?username=amalikahmed066-ops&label=Profile+views&color=00c2a8)
+![Followers](https://img.shields.io/github/followers/amalikahmed066-ops?style=social)
+
+</div>
 
 ---
 
-## 🧑‍💻 Mere baare mein
+## 🧑‍💻 About Me
 
 ```js
 const me = {
-  name: "[Apna Naam]",
-  role: "MS IT Student & Developer",
-  currentlyBuilding: ["CreatorEarn", "Face Attendance System"],
-  learning: ["Git & GitHub", "Full-stack development"],
-  motto: "Seekho, banao, share karo 🚀"
+  name: "Abdul Malik",
+  role: "Software Engineering Student",
+  languages: ["Python", "C++", "Java", "JavaScript"],
+  databases: ["PostgreSQL", "MySQL"],
+  motto: "Understand first, design next, then code 🚀"
 };
+```
+
+## ⚡ Quick Facts
+
+- 🔭 Currently building **CreatorEarn** and a **Face Attendance System**
+- 🌱 Currently learning Data Structures, Algorithms and full-stack development
+- 💬 Ask me about Python, C++, databases and web projects
+- 🎯 Goal: build reliable, well-designed software
+
+## 🔄 How I Build Software
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[📋 Requirements]
+    B --> C[📐 Design and UML]
+    C --> D[💻 Code]
+    D --> E[🧪 Test]
+    E --> F[🚀 Deploy]
+    F -.->|feedback| B
 ```
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Mere Projects
+## 🚀 Projects
 
-| Project | Kya karta hai |
-|---|---|
-| **CreatorEarn** | Content creators ke liye monetization platform (Node.js) |
-| **Face Attendance System** | Face recognition se college attendance aur management (face-api.js) |
+| Project | What it does | Tech | Status |
+|---|---|---|---|
+| **CreatorEarn** | Monetization platform for content creators | Node.js | 🚧 In progress |
+| **Face Attendance System** | College attendance and management using face recognition | JavaScript, face-api.js | 🚧 In progress |
 
-## 📊 GitHub Stats
+## 🗺️ Learning Roadmap
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amalikahmed066-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalikahmed066-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- [ ] Data Structures and Algorithms
+- [ ] Full-stack development
+- [ ] Advanced SQL (PostgreSQL and MySQL)
+- [ ] Design patterns and UML
+- [ ] Open-source contributions
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-amalikahmed066--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalikahmed066-ops)
 
 ---
 
-<p align="center">⭐ Agar mera koi project pasand aaye to star zaroor karein!</p>
+<p align="center">⭐ If you like any of my projects, feel free to give it a star!</p>
