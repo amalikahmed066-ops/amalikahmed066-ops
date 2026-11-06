@@ -1,93 +1,187 @@
 <div align="center">
 
-<h1>Hello 👋 I'm Abdul Malik</h1>
+# 👨‍💻 ABDUL MALIK
 
-<h3>Software Engineering Student · Python and C++ · Web and Databases</h3>
+### `SOFTWARE ENGINEERING STUDENT` • `JAVA` • `WEB DEVELOPMENT` • `DATABASES`
 
-<p><i>Turning ideas into well-designed, working software.</i></p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software+%F0%9F%9A%80;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Future+Software+Engineer+%E2%9A%A1;Learn.+Build.+Improve.+Repeat." />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=amalikahmed066-ops&label=Profile+views&color=00c2a8)
-![Followers](https://img.shields.io/github/followers/amalikahmed066-ops?style=social)
+<img src="https://komarev.com/ghpvc/?username=amalikahmed066-ops&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/amalikahmed066-ops?label=FOLLOWERS&style=for-the-badge&color=7B2CFF" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# ⚡ SYSTEM.INFO
 
-```js
-const me = {
-  name: "Abdul Malik",
-  role: "Software Engineering Student",
-  languages: ["Python", "C++", "Java", "JavaScript"],
-  databases: ["PostgreSQL", "MySQL"],
-  motto: "Understand first, design next, then code 🚀"
+```javascript
+const developer = {
+    name: "Abdul Malik",
+    role: "Software Engineering Student",
+
+    currentlyBuilding: [
+        "🏥 MediCare Pro",
+        "🎓 Face Attendance System",
+        "💻 Web Applications"
+    ],
+
+    languages: [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    motto: "Learn → Design → Build → Improve 🚀"
 };
 ```
 
-## ⚡ Quick Facts
+---
 
-- 🔭 Currently building **CreatorEarn** and a **Face Attendance System**
-- 🌱 Currently learning Data Structures, Algorithms and full-stack development
-- 💬 Ask me about Python, C++, databases and web projects
-- 🎯 Goal: build reliable, well-designed software
+# 🚀 FEATURED PROJECTS
 
-## 🔄 How I Build Software
+## 🏥 MEDICARE PRO
 
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[📋 Requirements]
-    B --> C[📐 Design and UML]
-    C --> D[💻 Code]
-    D --> E[🧪 Test]
-    E --> F[🚀 Deploy]
-    F -.->|feedback| B
+> **Hospital Management System**
+
+```text
+┌──────────────────────────────────────┐
+│         🏥 MEDICARE PRO              │
+├──────────────────────────────────────┤
+│  👤 Patient Management               │
+│  👨‍⚕️ Doctor Management                │
+│  📅 Appointment System               │
+│  📋 Medical Records                  │
+│  📊 Admin Dashboard                  │
+└──────────────────────────────────────┘
 ```
 
-## 🛠️ Tech Stack
+**Tech Stack**
 
-**Languages**
+`Java` • `OOP` • `Swing` • `PostgreSQL`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🚀 Projects
-
-| Project | What it does | Tech | Status |
-|---|---|---|---|
-| **CreatorEarn** | Monetization platform for content creators | Node.js | 🚧 In progress |
-| **Face Attendance System** | College attendance and management using face recognition | JavaScript, face-api.js | 🚧 In progress |
-
-## 🗺️ Learning Roadmap
-
-- [ ] Data Structures and Algorithms
-- [ ] Full-stack development
-- [ ] Advanced SQL (PostgreSQL and MySQL)
-- [ ] Design patterns and UML
-- [ ] Open-source contributions
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-amalikahmed066--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalikahmed066-ops)
+🚧 **Currently Building**
 
 ---
 
-<p align="center">⭐ If you like any of my projects, feel free to give it a star!</p>
+## 🎓 BIOATTEND PRO
+
+> **Face Recognition Attendance System**
+
+```text
+┌──────────────────────────────────────┐
+│       🎓 BIOATTEND PRO               │
+├──────────────────────────────────────┤
+│  👨‍🎓 Student Profiles                │
+│  📷 Face Verification                │
+│  📅 Attendance Tracking              │
+│  👨‍🏫 Teacher Portal                  │
+│  📊 University Dashboard             │
+└──────────────────────────────────────┘
+```
+
+**Tech Stack**
+
+`HTML` • `CSS` • `JavaScript` • `face-api.js`
+
+🚧 **In Development**
+
+---
+
+## 💰 CREATOR EARN
+
+> **Creator Monetization Platform**
+
+```text
+Creator → Content → Audience → Earnings 💰
+```
+
+**Tech Stack**
+
+`Node.js` • `JavaScript` • `Databases`
+
+🚧 **In Development**
+
+---
+
+# 🧬 TECH DNA
+
+### ⚙️ Programming
+
+![Java](https://img.shields.io/badge/JAVA-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/PYTHON-0A0A0A?style=for-the-badge&logo=python&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=FF5F56)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/NODE.JS-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=00FF9D)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![MySQL](https://img.shields.io/badge/MYSQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00E5FF)
+
+---
+
+# 🗺️ DEVELOPMENT ROADMAP
+
+```mermaid
+flowchart LR
+    A[💡 IDEA] --> B[📋 PLAN]
+    B --> C[🎨 DESIGN]
+    C --> D[💻 BUILD]
+    D --> E[🧪 TEST]
+    E --> F[🚀 LAUNCH]
+    F -.-> G[📈 IMPROVE]
+    G -.-> B
+```
+
+---
+
+# 📡 CURRENT MISSION
+
+```text
+[████████░░] JAVA & OOP
+[███████░░░] POSTGRESQL
+[████████░░] WEB DEVELOPMENT
+[█████░░░░░] DATA STRUCTURES
+[██████░░░░] FULL-STACK DEVELOPMENT
+```
+
+🎯 **MISSION:** Become a skilled Software Engineer and build useful, reliable software.
+
+---
+
+# 🛠️ TOOLKIT
+
+![Git](https://img.shields.io/badge/GIT-0A0A0A?style=for-the-badge&logo=git&logoColor=FF5F56)
+![VS Code](https://img.shields.io/badge/VS_CODE-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+
+---
+
+<div align="center">
+
+## 🌐 CONNECT
+
+[![GitHub](https://img.shields.io/badge/GITHUB-amalikahmed066--ops-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/amalikahmed066-ops)
+
+<br>
+
+### ⚡ CODE • CREATE • INNOVATE ⚡
+
+**⭐ If you like my projects, consider giving them a star!**
+
+</div>
